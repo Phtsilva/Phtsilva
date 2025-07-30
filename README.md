@@ -1,4 +1,4 @@
-<h2 align="left">💻 Opa, prazer! Sou o Pedro.</h2>
+<h1 align="left">💻 Opa, prazer! Sou o Pedro.</h1>
 
 ###
 
