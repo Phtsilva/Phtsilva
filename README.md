@@ -1,8 +1,12 @@
 <h1 align="left">💻 Opa, prazer! Sou o Pedro.</h1>
 
 ###
-
-<p align="left">✨ Iniciante em desenvolvimento web, comprometido com aprendizado contínuo e evolução na área de tecnologia<br>📚 Atualmente cursando Análise e Desenvolvimento de Sistemas na Anhanguera e estudando HTML e CSS, com foco em avançar para React.js e Tailwind em breve<br>🎯 Objetivos: Me tornar um desenvolvedor full-stack, criar interfaces modernas e responsivas, e construir um portfólio sólido e funcional<br>☕ Curiosidade: Movido a café — porque grandes ideias e linhas de código precisam de combustível</p>
+<p align="left">
+✨ Estudante de tecnologia com foco em Python e Data Science<br>
+📚 Cursando Análise e Desenvolvimento de Sistemas na Anhanguera, aprofundando estudos em análise de dados e lógica de programação<br>
+📊 Objetivo: Me desenvolver como Data Scientist, utilizando Python para análise, visualização e tomada de decisão baseada em dados<br>
+☕ Curiosidade: Café é meu combustível para transformar dados em insights
+</p>
 
 ###
 
